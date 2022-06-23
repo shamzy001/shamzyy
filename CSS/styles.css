@@ -1,0 +1,51 @@
+/*******************CLASS SELECTORS*****************/
+body {
+  background-color: ;
+  text-align: cente;
+  margin 0;
+}
+.top {
+  background-color #CDF0EA;
+}
+.pro {
+  text-decoration underline;
+}
+.sham {
+  text-decoration underline;
+}
+hr {
+border-style: dotted;
+border-radius: 0;
+border-top-style: none;
+border-color: #9DD6DF;
+border-width: 5px;
+width: 500px;
+}
+h1 {
+  color: #79DAE8;
+  font-size 100px;
+}
+h2 {
+  color: #79DAE8;
+}
+h3 {
+  color: #79DAE8;
+}
+h4 {
+  font-size: 20px;
+}
+p {
+  font-size: 20px;
+}
+.top-container {
+  background-color: #CDF0EA;
+  text-align: center;
+  margin: 0;
+}
+.pro {
+  text-decoration: underline;
+}
+.mq {
+  color: #79DAE8;
+  font-size: 20px;
+}
